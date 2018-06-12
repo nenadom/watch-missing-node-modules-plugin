@@ -1,6 +1,6 @@
 {
   "name": "@nenado/watch-missing-node-modules-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack 4 version of react-dev-utils plugin",
   "main": "index.js",
   "scripts": {
