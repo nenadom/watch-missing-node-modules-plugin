@@ -1,0 +1,23 @@
+{
+  "name": "@nenado/watch-missing-node-modules-plugin",
+  "version": "1.0.0",
+  "description": "A webpack 4 version of react-dev-utils plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenadom/watch-missing-node-modules-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "react-dev-utils"
+  ],
+  "author": "Nenad Mijatovic <me@nenad.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nenadom/watch-missing-node-modules-plugin/issues"
+  },
+  "homepage": "https://github.com/nenadom/watch-missing-node-modules-plugin#readme"
+}
